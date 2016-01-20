@@ -1,1 +1,2 @@
-This is the first, alteration to the file.
+This is, alteration to the file removed a couple of words.
+the second line added
